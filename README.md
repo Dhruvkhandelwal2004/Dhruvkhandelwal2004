@@ -18,7 +18,7 @@
 - 📫 Let's connect on :  **dhruvkhandelwal111@gmail.com**
 
 <p align="left">
-<a href="https://www.linkedin.com/in/yash-khandelwal-cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash khandelwal" height="30" width="40" /></a>    <img align="center" src="https://github.com/user-attachments/assets/e5d89298-75dc-4f55-84cd-fcbba276a45b"  height="30" width="40" /> 
+<a href="https://www.linkedin.com/in/dhruv-khandelwal-b1ab25324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv khandelwal" height="30" width="40" /></a>    <img align="center" src="https://github.com/user-attachments/assets/e5d89298-75dc-4f55-84cd-fcbba276a45b"  height="30" width="40" /> 
 </p> 
 <br>
 <h3 align="left">Languages and Tools:</h3>
