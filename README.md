@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Dhruv Khandelwal </h2>
 
-<h3 align="center">I'm a Programming Enthusiast</h3>
+<h3 align="center">I'm a Programming Enthusiast and Aspiring Data Analytics !</h3>
 
 <br>
 <img align="right" width="500" height="300" src="https://github.com/user-attachments/assets/80cc3b12-3297-4d2f-8fba-4368c1b8ac30"  />
