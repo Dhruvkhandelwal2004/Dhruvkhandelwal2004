@@ -1,19 +1,21 @@
 <h2 align="center">Hi 👋, I'm Dhruv Khandelwal </h2>
 
-<h3 align="center">I'm a Programming Enthusiast and Aspiring Data Analytics !</h3>
+<h3 align="center">Full Stack Developer • AI Automation Builder • n8n Workflow Developer !</h3>
 
 <br>
 <img align="right" width="500" height="300" src="https://github.com/user-attachments/assets/80cc3b12-3297-4d2f-8fba-4368c1b8ac30"  />
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhruvkhandelwal2004&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruvkhandelwal2004" /> </p> 
 
-- 🎓 BCA CSE Student at **Career Point University**   
+- 🎓 BCA CSE Student at **Career Point University, Kota**   
 
-- 💻 Passionate about **Python, Web Development & AI** 
+- 🤖 Passionate about Full Stack Development and Automation** 
 
-- 🚀 Currently learning **Full Stack Web Development** 
+- 🚀 Building AI-powered workflows using n8n and modern AI tools** 
 
-- 📚 Always eager to learn **New Technologies**  
+- ⚡ Interested in solving real business problems through technology**
+  
+- 🌱 Currently learning React, Node.js, Backend Development, and Advanced Automation**  
 
 - 📫 Let's connect on :  **dhruvkhandelwal111@gmail.com**
 
